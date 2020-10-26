@@ -1,6 +1,6 @@
 # Hyperlink-Induced-Topic-Search-HITS-over-Wikipedia-Articles-using-Apache-Spark
 
-The goal of this project is to enable you to gain experience in:
+The goal of this project is to gain experience in:
 
 • Installing and using analytics tools such as HDFS and Apache Spark
 
